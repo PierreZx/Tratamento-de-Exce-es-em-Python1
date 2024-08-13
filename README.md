@@ -1,0 +1,1 @@
+# Tratamento-de-Exce-es-em-Python1
